@@ -2,7 +2,8 @@
 Create Project : File > New > Dynamic Web Project
 <br/>
 Project name : example-spring-myportal
-
+## ScreenShots
+***
 <div>
     <span>
         <img width="30%" src="images/create-project/createProject02.png"/>
@@ -16,3 +17,4 @@ Project name : example-spring-myportal
     </span>
     <p>Change Content Diretory to "webapp" and check Generate web.xml...</p>
 </div>
+***
