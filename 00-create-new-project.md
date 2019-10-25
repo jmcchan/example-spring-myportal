@@ -4,14 +4,14 @@ Create Project : File > New > Dynamic Web Project
 Project name : example-spring-myportal
 
 <div>
-  <div>
+  <span width="30%">
     <img width="30%" src="images/create-project/createProject02.png" />
     <p>Remove "src" and add "src\main\java"</p>
-  </div>
-  <div>
+  </span>
+  <span width="30%">
     <img width="30%" src="images/create-project/createProject03.png" />
-  </div>
-  <div>
+  </span>
+  <span width="30%">
     <img width="30%" src="images/create-project/createProject04.png" />
-  </div>
+  </span>
 </div>
