@@ -4,14 +4,9 @@ Create Project : File > New > Dynamic Web Project
 Project name : example-spring-myportal
 
 <div>
-  <span width="30%">
-    <img width="30%" src="images/create-project/createProject02.png" />
-    <p>Remove "src" and add "src\main\java"</p>
-  </span>
-  <span width="30%">
-    <img width="30%" src="images/create-project/createProject03.png" />
-  </span>
-  <span width="30%">
-    <img width="30%" src="images/create-project/createProject04.png" />
-  </span>
+    <img width="30% src="images/create-project/createProject02.png"/>
+    <img width="30%" src="images/create-project/createProject03.png"/>
+    <p>Remove "src" and add "src\main\java"</p>                                          
+    <img width="30%" src="images/create-project/createProject04.png"/>
+    <p>Change Content Diretory to "webapp" and check Generate web.xml...</p>
 </div>
