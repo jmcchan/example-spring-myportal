@@ -15,6 +15,6 @@ Project name : example-spring-myportal
     <span>
         <img width="30%" src="images/create-project/createProject04.png"/>
     </span>
-    <p>Change Content Diretory to "webapp" and check Generate web.xml...</p>
+    <p>Change value of "Content Diretory" to "webapp" and check "Generate web.xml"</p>
 </div>
-***
+
